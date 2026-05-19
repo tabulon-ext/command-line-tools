@@ -158,6 +158,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [goaccess](https://github.com/allinurl/goaccess) - Real-time web log analyzer and interactive viewer that runs in a terminal in nix systems or through your browser.
 - [angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice logs on the command line.
 - [drep](https://github.com/maxpert/drep) - Grep with dynamic reloadable filter expressions. This allows filtering stream of logs/lines, while changing filters on the fly.
+- [agenttrace](https://github.com/luoyuctl/agenttrace) - Inspect AI coding agent logs for cost, failures, latency, anomalies, and health gates.
 
 ## Other
 
